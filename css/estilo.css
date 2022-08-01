@@ -155,9 +155,10 @@
     background-size: cover;
     display: flex;
     flex-direction: column;
-    justify-content: flex-start;
-    align-items: center;
+    justify-content:center;
+    align-items: left;
     width: 60%;
+    padding-left: 2%;
 
 }
 .p1{
@@ -168,6 +169,7 @@
 p{
     font-family: 'Inter', sans-serif;
     font-size: 24px;
+
 }
 .supriweb{
 display: flex;
