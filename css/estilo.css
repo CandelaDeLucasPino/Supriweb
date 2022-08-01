@@ -1,0 +1,178 @@
+.container-fluid{
+    background-color: #ffffff;
+    margin: 0;
+}
+.nav-link{
+    font-family: 'Inter', sans-serif;
+    font-size: 21px;
+    color: #000000;
+}
+
+.bloque1{
+    background-image: url("../img/Rectangle\ 15.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.contactus{
+    background-color: #45AFF4;
+    color: #354248;
+    font-size: 18px;
+    border: none;
+    border-radius: 20px;
+    width: 15%;
+    height: 8%;
+    font-family: 'Roboto', sans-serif;
+    margin-top: -3%;
+}
+.contactus a{
+    text-decoration: none;
+    color: #354248;
+}
+.banner{
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+
+}
+.rec3{
+    width: 35%;
+}
+.aboutus{
+    background-image: url(../img/Group\ 16.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 65%;
+    display: flex;
+    flex-direction: column;
+    align-items: left;
+    justify-content: center;
+    padding-left: 5%;
+    
+    
+}
+.title{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 48px !important;
+    font-weight: bolder;
+    color: white;
+    margin-top: 5%;
+    padding-top: 10%;
+
+}
+.aboutus p{
+    font-family: 'Inter', sans-serif;
+    font-size: 30px;
+    margin-top: 3%;
+    margin-right: 23.5%;
+    color: #ffffff;
+}
+.btn2{
+    align-self: flex-end;
+    background-color: #354248;
+    color: #ffffff;
+    border-radius: 20px;
+    font-family: 'Roboto', sans-serif;
+    font-size: 18px;
+    padding: 1.5% 1% 1.5% 1%;
+    width: 25%;
+    text-align: center;
+    margin-right: 23.5%;
+}
+.btn2 a{
+    text-decoration: none;
+    color: #ffffff;   
+}
+.fondo{
+    background-image: url(../img/Group\ 15.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    height: 100%;
+}
+.servicios{
+    width: 80%;
+    height: 80%;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
+    background-color: transparent;
+}
+.iconos{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    width: 47%;
+    height: 40%;
+    padding: 3% 3% 3% 3%;
+    margin:5% 3% 4% 0%;
+    border-radius: 20px;
+    background-color: white;
+    box-shadow: 5px 5px 5px  rgb(218, 218, 218); 
+
+
+}
+.img1{
+    width: 15%;
+    height: 15%;
+}
+.inside{
+    font-family: 'Roboto', sans-serif;
+    font-size: 18px;
+    margin-left: 5%;
+    display: flex;
+    flex-direction: column;
+    justify-content: left;
+    align-items: left;
+    text-align: left;
+}
+.title2{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 48px;
+    font-weight:bolder;
+    padding: 9% 3% 4% 3%;
+    margin-bottom: 0;
+} 
+.footer{
+    width: 100%;
+    height: 40%;
+    display: flex;
+    flex-direction: row;
+}
+.contacto{
+    background-image: url(../img/Rectangle\ 4.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+    width: 60%;
+
+}
+.p1{
+    font-family: 'Inter', sans-serif;
+    font-size: 24px;
+    font-weight: bold;
+}
+p{
+    font-family: 'Inter', sans-serif;
+    font-size: 24px;
+}
+.supriweb{
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+width: 40%;
+}
